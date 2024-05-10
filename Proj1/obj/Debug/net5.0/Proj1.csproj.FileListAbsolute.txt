@@ -1,0 +1,16 @@
+C:\Users\Dunja\source\repos\Proj1\Proj1\bin\Debug\net5.0\Proj1.exe
+C:\Users\Dunja\source\repos\Proj1\Proj1\bin\Debug\net5.0\Proj1.deps.json
+C:\Users\Dunja\source\repos\Proj1\Proj1\bin\Debug\net5.0\Proj1.runtimeconfig.json
+C:\Users\Dunja\source\repos\Proj1\Proj1\bin\Debug\net5.0\Proj1.runtimeconfig.dev.json
+C:\Users\Dunja\source\repos\Proj1\Proj1\bin\Debug\net5.0\Proj1.dll
+C:\Users\Dunja\source\repos\Proj1\Proj1\bin\Debug\net5.0\ref\Proj1.dll
+C:\Users\Dunja\source\repos\Proj1\Proj1\bin\Debug\net5.0\Proj1.pdb
+C:\Users\Dunja\source\repos\Proj1\Proj1\obj\Debug\net5.0\Proj1.csprojAssemblyReference.cache
+C:\Users\Dunja\source\repos\Proj1\Proj1\obj\Debug\net5.0\Proj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dunja\source\repos\Proj1\Proj1\obj\Debug\net5.0\Proj1.AssemblyInfoInputs.cache
+C:\Users\Dunja\source\repos\Proj1\Proj1\obj\Debug\net5.0\Proj1.AssemblyInfo.cs
+C:\Users\Dunja\source\repos\Proj1\Proj1\obj\Debug\net5.0\Proj1.csproj.CoreCompileInputs.cache
+C:\Users\Dunja\source\repos\Proj1\Proj1\obj\Debug\net5.0\Proj1.dll
+C:\Users\Dunja\source\repos\Proj1\Proj1\obj\Debug\net5.0\ref\Proj1.dll
+C:\Users\Dunja\source\repos\Proj1\Proj1\obj\Debug\net5.0\Proj1.pdb
+C:\Users\Dunja\source\repos\Proj1\Proj1\obj\Debug\net5.0\Proj1.genruntimeconfig.cache
